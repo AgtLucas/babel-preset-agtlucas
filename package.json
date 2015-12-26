@@ -1,20 +1,20 @@
 {
-  "name": "babel-preset-forbeslindesay",
+  "name": "babel-preset-agtlucas",
   "version": "1.0.0",
-  "description": "ESLint default settings to match my personal preferences",
+  "description": "Babel default settings to match my personal preferences",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ForbesLindesay/babel-preset-forbeslindesay.git"
+    "url": "git+https://github.com/AgtLucas/babel-preset-agtlucas.git"
   },
   "keywords": [
     "babel",
     "babel-preset"
   ],
-  "author": "ForbesLindesay",
+  "author": "Lucas",
   "license": "MIT",
   "dependencies": {
     "babel-plugin-check-es2015-constants": "^6.3.13",
